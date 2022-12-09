@@ -1,0 +1,116 @@
+<html>
+    <head>
+        <title>
+            STARDUST C
+        </title>
+        <link rel="stylesheet" type="text/css" href="css/stylesheet.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    </head>
+    <body>
+        <header>
+            <div class="banner">
+                <div class="top">
+                    <div class="logo">
+                        <img src="logo.png" class="logo">
+                    </div>
+                    <div class="rowtop">
+                        <div class="col l">
+                            Contact No: +0000000000<br>
+                            Email:tanviguptajun6@gmail.com
+                        </div>
+                        <div class="col m">
+                                <a href="https://goo.gl/maps/V4bUoLBRdyGnjzV96" class="fa fa-map-marker">Location</a>
+                        </div>
+                        <div class="col r">
+                            <a href="#" class="fa fa-user">login</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="navigation">
+                    <ul>
+                        <li><a href="html.html" target="_self">HOME</a></li>
+                        <li><a href="#" target="_self">ABOUT US</a></li>
+                        <li><a href="#">WHAT WE DO</a>
+                            <div class="sub1">
+                                <ul>
+                                    <li><a href="#">Bridges</a></li><br>
+                                    <li><a href="#">Highways</a></li><br>
+                                    <li><a href="#">Emulsions</a></li><br>
+                                    <li><a href="#">Crash<br><center>Barrier</center></a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li><a href="ourwork.html" target="_self">OUR WORK </a></li>
+                        <li><a href="#" target="_self">MEDIA </a></li>
+                        <li><a href="#" target="_self">CAREER </a></li>
+                        <li><a href="#" target="_self">CONTACT US </a>
+                            <div class="sub2">
+                                <ul>
+                                    <li><a href="tel:7979044348">Call</a></li><br>
+                                    <li><a href="mailto: tanviguptajun6@gmail.com">Email</a></li><br>
+                                    <li><a href="#">Address:LPU,Punjab</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+                <div class="name">
+                    <h1>STARDUST C</h1>
+                </div>
+            </div>
+        </header>
+        <section class="about">
+            <div class="row">
+                <div class="column left">
+                    <h2>Who Are We?</h2><hr>
+                    <br>The role of our business is the construction of both buildings and infrastructure projects. 
+                    We at Stardust C are well-equipped to handle the smallest to the largest projects. As a multiple-trade 
+                    Construction Company, we pride ourselves on our ability to work smoothly with clients, principal contractors,
+                    and subcontractors to meet construction and design requirements. While leading the way in collaborative 
+                    alliances, we value working closely with clients, contractors, and the local community to achieve mutual benefit.
+                    With intimate knowledge and extensive experience in building projects we enjoy working on environmentally
+                    sustainable developments and are committed to maximizing value to our clients.
+                    Years of commitment to our Core Values has made Stardust C the ideal building partner for the region’s most 
+                    forward-thinking organizations.
+                    Our success comes from a steadfast commitment to the client’s vision and a culture of balance, integrity, leadership,
+                    and loyalty. At Stardust C, we transform the construction experience through the creation of an environment that
+                    fosters collaboration and project team engagement.
+                    With a workplace that attracts and retains the best employees in every field. We are proud of the dedication, skill,
+                    and integrity of each of our employees, and their unique contributions to building our high-performance teams.
+                </div>
+                <div class="column right"><video autoplay muted loop><source src="v2.mp4" type="video/mp4"></video></div>
+            </div>
+        </section>
+        <br>
+        <div class="info">
+            <b>WHAT WE DO?</b>
+        </div>
+        <section class="info1">
+            <div class="row1">
+                <div class="column1 l1">BRIDGES<img src="b4.jpg"></div>
+                <div class="column1 r1">HIGHWAYS<img src="h3.jpg"></div>
+                <div class="column1 l2">METAL CRASH BARRIER<img src="m3.webp"></div>
+                <div class="column1 r2">EMULSIONS<img src="r6.jpg"></div>
+            </div>
+        </section>
+        <br>
+        <footer class="lower">
+            <div class="lower1">
+                <div class="left1">
+                    <h3>CONTACT US</h3>
+                    <p class="content">call: +0000000000 <br>
+                    email: sakshishuukla013@gmail.com <br>
+                    address: LPU, Punjab.</p>
+                </div>
+                <div class="right1">
+                    <a href="#" class="fa fa-facebook"></a>
+                    <a href="#" class="fa fa-twitter"></a>
+                    <a href="#" class="fa fa-youtube"></a>
+                    <a href="#" class="fa fa-instagram"></a>
+                    <a href="#" class="fa fa-pinterest"></a>
+                </div>
+            </div>
+        </footer>
+    </body>
+</html>
